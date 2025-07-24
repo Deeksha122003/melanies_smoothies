@@ -1,6 +1,7 @@
 streamlit
 snowflake-snowpark-python
 pandas
+request
 
 
 
