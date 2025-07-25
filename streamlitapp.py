@@ -1,6 +1,5 @@
 # Import python packages
 import streamlit as st
-import panadas as pa
 from snowflake.snowpark.functions import col
 
 
